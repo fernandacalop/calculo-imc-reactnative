@@ -1,6 +1,7 @@
 # Calculadora de IMC
 
 App desenvolvido em React Native para calcular o Índice de Massa Corporal.
+Foi programado na plataforma snack.expo.dev, tendo uma melhor execução nela.
 
 ## 📱 Funcionalidades
 
